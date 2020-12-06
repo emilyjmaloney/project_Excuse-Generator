@@ -1,0 +1,13 @@
+body{
+    background-color: magenta;
+}
+.title{
+    background-color: lightgreen;
+}
+h1{
+    font-size: 24;
+}
+.excuse{
+    background-color: gray;
+    text-align: center;
+}
